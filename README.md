@@ -16,7 +16,6 @@ $ npm install
 ```
 ## Run the project
 ```bash
-# development
 $ npm run dev
 ```
 ## Open the app in your browser:
