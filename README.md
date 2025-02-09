@@ -15,7 +15,7 @@ $ cd <project-folder>
 $ npm install
 ```
 ## Open the app in your browser:
-(http://localhost:5173)
+http://localhost:5173
 
 ## License
 
